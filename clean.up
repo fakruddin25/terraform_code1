@@ -4,4 +4,5 @@ uptime > look
 date > look
 cal > look
 top > look
+rpm -qa | grep -i sos
 #stop
